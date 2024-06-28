@@ -14,7 +14,7 @@ bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.send_message(message.chat.id, "ASD")
+    bot.send_message(message.chat.id, "Отправь видео, а я переделаю его в кружок")
 
 
 import os, ffmpeg
