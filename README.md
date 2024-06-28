@@ -1,5 +1,5 @@
 # videoToTGCircleBot
-<h2>telegram bot for converting video into a circle<\h2>
+<h2>telegram bot for converting video into a circle
 
 you will also need ffmpeg to work.
 the files in the directory should be like this<br>
